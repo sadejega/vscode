@@ -6,3 +6,4 @@ document.write({
 )
 
 document.write("Hola Mundo")
+document.write("He agregado algo")
